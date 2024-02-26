@@ -1,6 +1,6 @@
 # Brain Tumor Detection Project
 
-![Brain Tumor](images/brain_tumor.jpg)
+![Brain Tumor](https://i.pinimg.com/564x/83/98/8d/83988d7efd496ab0b8d99f96823b0f04.jpg)
 
 ## Overview
 
@@ -34,7 +34,7 @@ Brain tumors can have severe consequences, and early detection is crucial for su
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/brain-tumor-detection.git
+git clone https://github.com/AmineRaouane/Brain_tumor.git
 ```
 
 2. Install dependencies:
